@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @JoeBorja-test
+- 👋 Hi, I’m JoeB
 - 👀 I’m interested in front end design
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on UI
-- 📫 How to reach me at InstaGram @borjaworks
+- 📫 How to reach me at InstaGram @DirtyLensPhoto
 
 <!---
 JoeBorja-test/JoeBorja-test is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
